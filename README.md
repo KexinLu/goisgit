@@ -9,3 +9,7 @@ Check if directory is git
     do ...
  }
 ```
+
+You can change the path for git binary by setting
+GitCmdStr
+eg. `goisgit.GitCmdStr = "D:/ProgramFiles/git/git.exe"`
